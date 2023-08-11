@@ -1,0 +1,16 @@
+{
+  "name": "hexlet test project",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "My first Hexlet test project to learn NPM and NVM and 
+the likes of them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "{
+  "name" : "Andrey Timoshenkov",
+  "email" : "andreytmshnkv@gmail.com",
+}",
+  "license": "ISC"
+}
